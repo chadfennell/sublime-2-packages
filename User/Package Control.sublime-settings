@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": 1351003195,
+	"installed_packages":
+	[
+		"CTags",
+		"DetectSyntax",
+		"Drupal Project Autocomplete",
+		"Git",
+		"Package Control",
+		"RSpec",
+		"Shell Turtlestein",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}

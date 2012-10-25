@@ -1,0 +1,6 @@
+[
+        { "keys": ["ctrl+shift+c"], "command": "copy_path_to_clipboard" },
+        { "keys": ["ctrl+shift+alt+r"], "command": "open_rspec_file_command" },
+        { "keys": ["ctrl+shift+r"], "command": "run_tests" },
+        { "keys": ["ctrl+shift+alt+w"], "command": "close_other_tabs" }
+]
